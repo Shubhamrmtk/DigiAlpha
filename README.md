@@ -11,4 +11,4 @@ Delete/Disable User: Deactivate a user by providing their unique identifier.
 
 List All Users with filters: Retrieve a list of all users, with the option to filter the results by first name, last name, email, or phone number.
 
-The application uses MySQL as the database to store user information. The Knex library is used to perform database migrations and interact with the database
+The application uses MySQL as the database to store user information. The Sequilize library is used to perform database migrations and interact with the database
